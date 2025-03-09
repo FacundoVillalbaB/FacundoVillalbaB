@@ -1,22 +1,22 @@
-# Hi there! 👋 I'm **Facundo**  
+# Hi there! 👋 I'm Facundo
 
-🌟 Welcome to my GitHub profile! I'm an **Information Engineering** student in my **senior year**.  
+🌟 Welcome to my GitHub profile! I'm an Information Engineering student in my senior year.
 
-## 🚀 About Me  
-🎓 Currently an **exchange student at NTUST**, studying **Information Engineering**.  
-🏗️ Working on my **capstone project**: an improved version of the **tolling system in Paraguay** using **computer vision and RFID**.  
-💡 Passionate about **AI, frontend development, and exploring new technologies**.  
-📚 Always learning **AI, software development, and innovative tech**.  
-🔍 **Actively looking for internships** to gain hands-on experience!  
+## 🚀 About Me
+🎓 I’m currently studying Information Engineering as an exchange student at NTUST.  
+🏗️ Working on my capstone project: an improved version of the tolling system in Paraguay using computer vision and RFID.  
+💡 Interested in AI, frontend development, and various technologies.  
+📚 Always learning AI, software development, and database management.  
+🔍 Looking for internships.  
 
-## 🛠 Tech Stack  
-🔹 **Languages**: C++, Python, Java  
-🔹 **Frameworks & Libraries**: Currently learning **OpenCV, YOLOv8**  
+## 🛠 Tech Stack
+🔹 Languages: C++, Python, Java.  
+🔹 Frameworks & Libraries: Learning OpenCV, YOLOv8.  
+🔹 Web & Database Technologies: Experience working with PHP, SQL, and managing databases for a company.  
 
-## 📈 GitHub Stats  
-![Facundo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=facuvillalba&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facuvillalba&layout=compact&theme=dark)  
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-## 📫 Let's Connect!  
-📧 Email: **Facundovillalbauptp@gmail.com**  
+## 📫 Let's Connect!
+📧 Email: Facundovillalbauptp@gmail.com  
 💼 LinkedIn: [Facundo Villalba](https://www.linkedin.com/in/facundo-villalba-a40b1027b/)  
