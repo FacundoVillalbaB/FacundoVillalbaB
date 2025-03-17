@@ -10,7 +10,7 @@
 🔍 Looking for internships.  
 
 ## 🛠 Tech Stack
-🔹 Languages: C++, Python, Java.  
+🔹 Languages: C++, C, Python, Java.  
 🔹 Frameworks & Libraries: Learning OpenCV, YOLOv8.  
 🔹 Web & Database Technologies: Experience working with PHP, SQL, and managing databases for a company.  
 
